@@ -1,5 +1,7 @@
 # Amazon_Vine_Analysis
-Overview of the analysis: Explain the purpose of this analysis.
+This anaylysis will review data for paid Amazon Vine Program vs Unpaid Vine reviws tos ee if they a bias towards favorable news from vine members employees.
+
+
 
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions:
@@ -20,3 +22,5 @@ There were 783 5 star paid vine reviews and 35949 5 star unpaid vine reviews
 
 ## Summary: 
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+With the analyze data we see that paid vine reviews vs non paid vine reviews has small influece on the products. We see that paid reviews were 44.11% whereas unpaid were 46%. If we look at the total reviews of paid vs unpaid we see that there is a large differnece between the two. Showing that unpaid reviews has bigger impact on products than paid. 
